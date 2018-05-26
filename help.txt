@@ -1,0 +1,3 @@
+To run without any filters run train.py
+Else to run with all the filters ,quote,colors and probability run train2.py
+Sound Code also included but commented .
