@@ -19,4 +19,4 @@ For dataset procesing visit this site : http://www.paulvangent.com/2016/04/01/em
 * Install OpenCV and Python 3
 * Create your own dataset
 * Run the file train2.py
-* Enjoy :)
+* Enjoy and possibly star it :)
