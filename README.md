@@ -7,7 +7,7 @@ techniques for enhancing the experience.
 This project is best suited for emotion recogniton for a single user's dataset.
 
 
-For dataset procesing visit this site : http://www.paulvangent.com/2016/04/01/emotion-recognition-with-python-opencv-and-a-face-dataset/
+For dataset proccesing visit this site : http://www.paulvangent.com/2016/04/01/emotion-recognition-with-python-opencv-and-a-face-dataset/
 
 # Requirements
 * Python 3
